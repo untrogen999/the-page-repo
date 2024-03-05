@@ -4,7 +4,10 @@ body {
 }
 
 img {
-    border: 5px solid black;
     width: auto;
     height: 450px;
+}
+
+a {
+    border: 2px solid black;
 }
