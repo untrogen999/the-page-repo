@@ -2,3 +2,9 @@ body {
     background: #DDDDDD;
     color:#DD3333;
 }
+
+img {
+    border: 5px solid black;
+    width: auto;
+    height: 450px;
+}
